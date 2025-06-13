@@ -28,5 +28,5 @@ A fullscreen Pong game built using **React**, inspired by the classic arcade gam
 
 🖼 Screenshots
 
-![Gameplay Screenshot](./screenshots/gameplay.png)
+![Gameplay Screenshot](https://github.com/anishrajpoot/React_Project-5_Pong_Game/blob/f06a57954244ddd266bb95b1f34cef9a165ec101/Project-5/src/assets/Screenshot%202025-06-13%20144523.png)
 
